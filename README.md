@@ -56,8 +56,8 @@ Webapp full-stack per la consultazione e gestione di schede cinematografiche.
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME_GITHUB&show_icons=true&theme=radial&hide_border=true" alt="Valeria's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME_GITHUB&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valegab17show_icons=true&theme=radial&hide_border=true" alt="Valeria's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valegab17&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
