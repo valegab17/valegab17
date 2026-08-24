@@ -44,21 +44,10 @@ Progetto finale di gruppo svolto durante il corso Boolean, sviluppato in team wo
 Webapp full-stack per la consultazione e gestione di schede cinematografiche.  
 `React` • `Node.js` • `Express` • `MySQL` • `Bootstrap`
 
-
-
 ---
 ### ⚠️ Attualmente sto lavorando a...
 
 - 🪴 **Cozy Garden Task Manager** — Un task manager interattivo a tema giardino e cozy vibes per organizzare le attività quotidiane in totale relax.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=valegab17show_icons=true&theme=radial&hide_border=true" alt="Valeria's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valegab17&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
