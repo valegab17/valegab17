@@ -36,6 +36,11 @@ Attualmente sto ricercando una posizione come **Junior Frontend Web Developer** 
 
 ### 📌 Progetti in evidenza
 
+#### 🧙‍♀️ **[Il Calderone della Strega](https://github.com/valegab17/progetto-finale-spec-frontend-front)**
+Progetto finale personale svolto durante il corso avanzato Front end Development di Boolean: E-commerce con un'interfaccia fantasy ispirata ai videogiochi RPG e funzionalità per la gestione e il confronto dei prodotti.
+`React` • `JavaScript` • `Context API` • `Custom Hooks` • `localStorage`
+
+
 #### 🎓 **[Project Work Final Team 3](https://github.com/claraloforti/project-work-frontend-team3)**
 Progetto finale di gruppo svolto durante il corso Boolean, sviluppato in team working su repository condivisa.  
 `React` • `JavaScript` • `HTML/CSS`
