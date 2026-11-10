@@ -52,7 +52,8 @@ Webapp full-stack per la consultazione e gestione di schede cinematografiche.
 ---
 ### ⚠️ Attualmente sto lavorando a...
 
-- 🪴 **Cozy Bud** — Un task manager interattivo a tema giardino e cozy vibes per organizzare le attività quotidiane in totale relax.
+
+- 
 
 ---
 
